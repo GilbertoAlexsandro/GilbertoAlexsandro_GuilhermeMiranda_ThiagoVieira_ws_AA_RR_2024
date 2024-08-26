@@ -14,17 +14,14 @@
   
   arquivo `Apresentação Problema do Caixeiro Viajante.pdf` é a apresentação de slides do trabalho.
   
-  Requisitos
-  
+  ##Requisitos
    Compilador C: O código foi testado usando o compilador GCC disponível na plataforma Replit.
    Plataforma Replit: Os códigos foram projetados para serem executados na plataforma Replit.
 
-   Alterar o Número de Cidades:
-   
+   ##Alterar o Número de Cidades:
    Modifique a constante V no início do código para alterar o número de cidades. Lembre-se de atualizar também o tamanho da matriz grafo para refletir o novo número de cidades. Aumentar o número de cidades pode alterar significativamente o custo e o tempo de execução.
 
-   Observações
-   
+   ##Observações 
    Para box.c: Este algoritmo é eficiente apenas para um número pequeno de cidades devido à sua complexidade factorial. Para mais cidades, considere usar métodos heurísticos ou aproximados.
    Para nearestNeighbour.c: Este algoritmo é mais rápido que o método de força bruta, mas não garante a solução ótima. Pode ser uma boa alternativa para um número maior de cidades.
    
