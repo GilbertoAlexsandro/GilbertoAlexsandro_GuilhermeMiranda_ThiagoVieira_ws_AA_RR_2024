@@ -16,6 +16,7 @@
   
   ## Requisitos
    Compilador C: O código foi testado usando o compilador GCC disponível na plataforma Replit.
+   
    Plataforma Replit: Os códigos foram projetados para serem executados na plataforma Replit.
 
    ## Alterar o Número de Cidades:
@@ -23,6 +24,7 @@
 
    ## Observações 
    Para box.c: Este algoritmo é eficiente apenas para um número pequeno de cidades devido à sua complexidade factorial. Para mais cidades, considere usar métodos heurísticos ou aproximados.
+   
    Para nearestNeighbour.c: Este algoritmo é mais rápido que o método de força bruta, mas não garante a solução ótima. Pode ser uma boa alternativa para um número maior de cidades.
    
 ![Gráfico de Força Bruta](https://github.com/GilbertoAlexsandro/GilbertoAlexsandro_GuilhermeMiranda_ThiagoVieira_ws_AA_RR_2024/blob/main/Gr%C3%A1fico%20For%C3%A7a%20Bruta.jpg?raw=true)
