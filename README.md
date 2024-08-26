@@ -7,7 +7,7 @@
  - Apresentar um algoritmo que seja mais eficiente, em
    termos de complexidade, do que o algoritmo analisado
    
-## Nosso Trabalho
+## Algorítmos
   - box.c: Implementa o algoritmo de força bruta para o problema do Caixeiro Viajante (TSP - Traveling Salesman Problem) com permutações.
   - nearestNeighbour.c: Implementa o algoritmo do Vizinho Mais Próximo para o problema do Caixeiro Viajante.
   - O arquivo `Apresentação Problema do Caixeiro Viajante.pdf` é a apresentação de slides do trabalho.
